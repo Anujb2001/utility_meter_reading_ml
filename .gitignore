@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+egg-info/
+.installed.cfg
+*.egg
+*.egg-info/
+
+# Installer logs
+debug.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+
+# Flask stuff
+instance/
+*.pyc
+*.pyo
+
+# Scrapy stuff
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+.env.bak
+
+# PyCharm specific files
+.idea/
+*.iml
+
+# VS Code specific files
+.vscode/
+
+# MacOS stuff
+.DS_Store
+
+# Upload and segment directories
+uploads/
+segments/
+# my virtual enviournment 
+myenv/
+segment_model.hdf5

@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+PyJWT
+Werkzeug
+python-dotenv
+Pillow
+Flask-SQLAlchemy
+easyocr
+requests
+numpy
+matplotlib
+scipy
+tensorflow==2.15.0
+keras==2.15.0
+deskew
+pandas
